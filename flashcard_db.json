@@ -1,0 +1,21 @@
+[
+    {
+        "question": "Hello (formal)",
+        "answer": "Good morning/afternoon/evening!"
+    },
+    
+    {
+        "question": "Goodbye (formal)",
+        "answer": "Farewell!"
+    },
+
+    {
+        "question": "Hello (informal)",
+        "answer": "Sup!"
+    },
+
+    {
+        "question": "Goodbye (informal)",
+        "answer": "Peace out!"
+    }
+]
